@@ -1,7 +1,21 @@
 # Dashboard_2.0 Visualization
 
 
-# Laravel Project
+
+<div  style="display:flax;" >
+<img src="https://github.com/TrickyVikram/Dashboard_2.0/blob/main/1.png" alt="img" width="400px" height="300">
+<img src="https://github.com/TrickyVikram/Dashboard_2.0/blob/main/2.png" alt="img" width="400px" height="300">
+<img src="https://github.com/TrickyVikram/Dashboard_2.0/blob/main/3.png" alt="img" width="400px" height="300">
+<img src="https://github.com/TrickyVikram/Dashboard_2.0/blob/main/4.png" alt="img" width="400px" height="300">
+<img src="https://github.com/TrickyVikram/Dashboard_2.0/blob/main/5.png" alt="img" width="400px" height="300">
+<img src="https://github.com/TrickyVikram/Dashboard_2.0/blob/main/6.png" alt="img" width="400px" height="300">
+<img src="https://github.com/TrickyVikram/Dashboard_2.0/blob/main/7.png" alt="img" width="400px" height="300">
+
+
+
+</div >
+
+
 
 ## Overview
 
